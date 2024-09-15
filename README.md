@@ -1,7 +1,7 @@
 # Tokyo
 ### Loadstring
 ```lua
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/dohmai/Tokyo/main/Loader"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/EclipseXDev/EclipseX/refs/heads/main/Loader"))()
 ```
 ### Supported Games
 - [Dahood](https://www.roblox.com/games/2788229376/)
